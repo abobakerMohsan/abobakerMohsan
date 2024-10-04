@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Abobaker Mohsan
 
-### Software Engineer | Data Scientist | Full Stack Web & Mobile App Developer
+### Senior Software Engineer | Full Stack Web & Mobile Developer
 
-I have over **5 years of experience** in developing web and mobile applications. My expertise spans a variety of frameworks and technologies, from building robust backends to crafting intuitive user interfaces. I specialize in:
+💗 **Passionate about systems analysis and database design.**
 
-- **Backend**: Laravel, .NET Core
-- **Frontend**: Vue.js, Nuxt.js
-- **Mobile**: Flutter
-- **Database**: MySQL, SQL
-- **DevOps**: Server management, Hosting administration
+Graduated from Sana'a University in Yemen in 2019 with a Bachelor's degree in Software Engineering.  
+Graduated from Coding Academy fullstack web development bootcamp in 2019.
+
+💻 Working as a freelance web developer with **6+ years of experience** in web development.  
+💻 I have operated more than 30 websites and systems so far.
 
 ---
 
@@ -28,12 +28,17 @@ I have over **5 years of experience** in developing web and mobile applications.
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 ![Nuxt.js](https://img.shields.io/badge/nuxt.js-%2300C58E.svg?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![.Net Core](https://img.shields.io/badge/.netcore-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Quasar](https://img.shields.io/badge/quasar-%2300AAE7.svg?style=for-the-badge&logo=quasar&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🌐 Server & Hosting Management
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+### ☁️ Cloud & Server Management
+![WHM](https://img.shields.io/badge/whm-%23FF9900.svg?style=for-the-badge&logo=whm&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge&logo=cpanel&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
@@ -44,7 +49,8 @@ I have over **5 years of experience** in developing web and mobile applications.
 
 ---
 
+
 ## 📫 Get in Touch
 
-- **LinkedIn**: [Abobaker Mohsan](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn**: [Abobaker Mohsan](https://www.linkedin.com/in/abobakeralshuhari)
 - **Email**: abobaker.m2017@gmail.com
